@@ -1,4 +1,4 @@
-<!-- my-page.html --> 
+<link href="custom.css" rel="stylesheet"></link>
 <script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
 
 # T-GI ?
