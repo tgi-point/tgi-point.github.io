@@ -2,6 +2,7 @@
 
 # T-GI ?
 - T-GI = 특이 = [ t:gi ] = Singularity = Unusual
+
 # Product
 - My MBTI Mates
 
