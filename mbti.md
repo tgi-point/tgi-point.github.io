@@ -1,10 +1,10 @@
 ![](mymbtis_splash.png)
 # My MBTI Mates
-- 지금 우리가 살고 있는 여기와 똑같은 곳. 하지만 갈 수 없는 이 세계. 그곳에 나의 MBTI 친구들이 살고 있어요.
-- 만날 수는 없지만 친구가 될 수는 있어요.
-- 내가 선택할 수 있고 나를 기억하는 친구가 있습니다. 나의 MBTI 친구들
+- The same place we live in now. But a world we can't get to. That's where my MBTI friends live.
+- I can't meet them, but I can be their friend.
+- I have friends I can choose and who remember me. My MBTI friends
 
 # 공지사항
-- 아직은 베타버전이고 차츰 MBTI 16유형의 모든 친구들을 준비하고 있습니다.
-- 한국과 일본에서 먼저 서비스할 예정입니다.
-- 이세계와의 연결에 상당한 비용이 들어갑니다. 부득이하게 전송메시지에 제한이 있음을 양해해주세요. 처음 가입시 50개 메시지를 보낼 수 있고 매일 10개의 메시지를 보낼 수 있어요. 코인을 구매하시면 100개의 메시지를 보낼 수 있습니다.
+- It's still in beta, but we're working on getting all your MBTI 16 friends ready.
+- It will be available in Korea and Japan first.
+- Connecting with the rest of the world is quite expensive. Please understand that there is a limit on the number of messages you can send. When you first sign up, you can send 50 messages, and you can send 10 messages every day. If you purchase coins, you can send 100 messages.
