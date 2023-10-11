@@ -1,3 +1,5 @@
+<link href="mbti.css" rel="stylesheet"/>
+
 ![](mymbtis_splash.png)
 # My MBTI Mates
 - The same place we live in now. But a world we can't get to. That's where my MBTI friends live.
