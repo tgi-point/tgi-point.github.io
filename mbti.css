@@ -1,6 +1,7 @@
 
 body{
-  background-color: #DF8344;
+  /* background-color: #DF8344; */
+  background-color: #ED7D31;
   color: black;
   font-family: 'Times New Roman', Times, serif;
 }
@@ -8,7 +9,8 @@ li{
   font-size: 20px;
 }
 .markdown-body{
-  background-color: #DF8344;
+  /* background-color: #DF8344; */
+  background-color: #ED7D31;
   color: black;
   font-family: 'Times New Roman', Times, serif;
 }
