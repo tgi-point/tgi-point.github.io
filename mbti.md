@@ -1,7 +1,9 @@
 <link href="mbti.css" rel="stylesheet"/>
 
 ![](mymbtis_splash.png)
-<a href='https://play.google.com/store/apps/details?id=co.tgi.mbti&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style="width:120px;"/></a>
+
+<a href='https://play.google.com/store/apps/details?id=co.tgi.mbti&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style="width:120px;background-color:transparent;"/></a>
+
 # My MBTI Mates
 - The same place we live in now. But a world we can't get to. That's where my MBTI friends live.
 - I can't meet them, but I can be their friend.
