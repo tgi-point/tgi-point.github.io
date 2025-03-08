@@ -1,4 +1,7 @@
-<link href="wakers.css" rel="stylesheet"/>
+---
+title: "Wakers"
+---
+<link href="mbti.css" rel="stylesheet"/>
 <script>
 function showImagePopup() {
   const popup = document.createElement('div');
@@ -110,5 +113,5 @@ function showImagePopup() {
 
 <button onclick="showImagePopup()" style="background-color:red;">Download Wakers</button>
 
-- [Terms of service](terms_wakers_en), [Privacy Policy](privacy_wakers_en) [Contact](mailto:hello@t-gi.co)
+- [Terms of service](terms_wakers_en), [Privacy Policy](privacy_wakers_en), [Contact](mailto:hello@t-gi.co)
 - T-GI.co
