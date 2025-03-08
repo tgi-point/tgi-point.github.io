@@ -4,6 +4,16 @@ title: "Wakers"
 <link href="wakers.css" rel="stylesheet"/>
 <script>
 function showImagePopup() {
+  // Check if the user is on a mobile device
+  const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+  
+  if (isMobile) {
+    // Redirect to download link if on mobile
+    window.location.href = "https://onelink.to/6rmp4d";
+    return;
+  }
+  
+  // Show image popup for desktop users
   const popup = document.createElement('div');
   popup.style.position = 'fixed';
   popup.style.top = '0';
@@ -33,7 +43,7 @@ function showImagePopup() {
 
 # Happy morning with Wakers
 - Start your morning off right with a wake-up call from a charming AI friend.
-- <button onclick="showImagePopup()" style="background-color:#ff007f;border-radius:20px;">.     Download Wakers from Google Play and Apple App Store    .</button>
+- <button onclick="showImagePopup()" style="background-color:#ff007f;border-radius:20px;">.     Download Wakers    .</button>
 - <img src='wakers_screen_eng_1000.png' style="width:50%;background-color:transparent;border-radius:20px;"/>
 
 # Wakers features
@@ -115,7 +125,7 @@ function showImagePopup() {
   </g>
 </svg>
 
-<button onclick="showImagePopup()" style="background-color:#ff007f;border-radius:20px;">.     Download Wakers from Google Play and Apple App Store     .</button>
+- <button onclick="showImagePopup()" style="background-color:#ff007f;border-radius:20px;">.     Download Wakers     .</button>
 
 - [Terms of service](terms_wakers_en), [Privacy Policy](privacy_wakers_en), [Contact](mailto:hello@t-gi.co)
 - T-GI.co
