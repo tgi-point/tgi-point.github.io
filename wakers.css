@@ -1,0 +1,7 @@
+html {
+    font-family: system-ui, sans-serif;
+    min-height: 100%;
+    position: relative;
+    background: linear-gradient(180deg, #e4aaff, #ffafb0 50%, #fccf78) no-repeat;
+    scroll-behavior: smooth;
+}

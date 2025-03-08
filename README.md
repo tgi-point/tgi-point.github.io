@@ -4,7 +4,7 @@
 - T-GI = 특이 = [ t:gi ] = Singularity = Unusual
 
 # Product
-- My MBTI Mates
+- [Wakers](wakers.md)
 
 # Contact
 - e-mail: hello@t-gi.co
