@@ -2,6 +2,23 @@ html {
     font-family: system-ui, sans-serif;
     min-height: 100%;
     position: relative;
-    background: linear-gradient(180deg, #e4aaff, #ffafb0 50%, #fccf78) no-repeat;
+    /* background: linear-gradient(180deg, #e4aaff, #ffafb0 50%, #fccf78) no-repeat; */
+    background: linear-gradient(180deg, red, pink 50%, #e4aaff) no-repeat;
     scroll-behavior: smooth;
+}
+
+body{
+    /* background-color: #DF8344; */
+    background-color: transparent;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+  }
+li{
+    font-size: 20px;
+}
+.markdown-body{
+    /* background-color: #DF8344; */
+    background-color: transparent;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
 }

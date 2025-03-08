@@ -14,7 +14,7 @@ function showImagePopup() {
   popup.style.zIndex = '1000';
   
   const img = document.createElement('img');
-  img.src = 'mymbtis_splash.png';
+  img.src = 'qr_wakers_l.png';
   img.style.maxWidth = '90%';
   img.style.maxHeight = '90%';
   
@@ -31,3 +31,12 @@ function showImagePopup() {
 # 진짜 굿모닝 with Wakers
 - 매력적인 AI친구들의 Wake-up call을 통해 즐겁게 아침을 시작해요.
 - <button onclick="showImagePopup()">Download</button>
+<img src='wakers_screen_eng_500.png' style="width:50%;background-color:transparent;border-radius:20px;"/>
+
+# Wakers features
+## 시끄러운 소리가 아니라 대화로 아침에 일어납니다
+<img src='wakers_banner_1024_500_en.png' style="width:50%;background-color:transparent;border-radius:20px;"/>
+
+## 다양한 아바타와 관계를 설정할 수 있어요
+
+## 
