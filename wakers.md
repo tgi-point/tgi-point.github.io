@@ -33,7 +33,7 @@ function showImagePopup() {
 
 # Happy morning with Wakers
 - Start your morning off right with a wake-up call from a charming AI friend.
-- <button onclick="showImagePopup()" style="background-color:red;">.     Download Wakers     .</button>
+- <button onclick="showImagePopup()" style="background-color:red;border-radius:20px;">.     Download Wakers     .</button>
 - <img src='wakers_screen_eng_500.png' style="width:25%;background-color:transparent;border-radius:20px;"/>
 
 # Wakers features
@@ -115,7 +115,7 @@ function showImagePopup() {
   </g>
 </svg>
 
-<button onclick="showImagePopup()" style="background-color:red;">.     Download Wakers     .</button>
+<button onclick="showImagePopup()" style="background-color:red;border-radius:20px;">.     Download Wakers     .</button>
 
 - [Terms of service](terms_wakers_en), [Privacy Policy](privacy_wakers_en), [Contact](mailto:hello@t-gi.co)
 - T-GI.co
