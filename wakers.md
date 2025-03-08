@@ -1,7 +1,7 @@
 ---
 title: "Wakers"
 ---
-<link href="mbti.css" rel="stylesheet"/>
+<link href="wakers.css" rel="stylesheet"/>
 <script>
 function showImagePopup() {
   const popup = document.createElement('div');
