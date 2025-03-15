@@ -1,4 +1,8 @@
-
+:root {
+  color-scheme: light; /* 또는 'dark' */
+  background-color: #ef709a; /* 원하는 배경색 */
+  color: black; /* 원하는 텍스트 색상 */
+}
 body{
     /* background-color: #DF8344; */
     background-color: #ef709a;

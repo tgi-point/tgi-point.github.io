@@ -66,7 +66,7 @@ function showImagePopup() {
   <!-- 날씨 앱 아이콘 -->
   <g transform="translate(10,10)">
     <!-- 원형 배경 -->
-    <circle cx="50" cy="50" r="50" fill="#ff007f"/>
+    <circle cx="50" cy="50" r="50" fill="#e35584"/>
     <!-- 날씨 아이콘: 태양 + 구름 -->
     <g transform="translate(20,20)" stroke="#ffffff" fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
       <!-- 태양 (중앙에 위치, 원형) -->
@@ -94,7 +94,7 @@ function showImagePopup() {
   <!-- 뉴스 앱 아이콘 -->
   <g transform="translate(130,10)">
     <!-- 원형 배경 -->
-    <circle cx="50" cy="50" r="50" fill="#ff007f"/>
+    <circle cx="50" cy="50" r="50" fill="#e35584"/>
     <!-- 뉴스 아이콘: 신문 모양 -->
     <g transform="translate(15,20)" stroke="#ffffff" fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
       <!-- 신문 외곽 -->
@@ -110,7 +110,7 @@ function showImagePopup() {
   <!-- 옷코디 앱 아이콘 -->
   <g transform="translate(250,10)">
     <!-- 원형 배경 -->
-    <circle cx="50" cy="50" r="50" fill="#ff007f"/>
+    <circle cx="50" cy="50" r="50" fill="#e35584"/>
     <!-- 옷코디 아이콘: 옷걸이 형태 -->
     <g transform="translate(20,25)" stroke="#ffffff" fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
       <!-- 옷걸이 상단 곡선 -->
