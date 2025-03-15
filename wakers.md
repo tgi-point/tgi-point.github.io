@@ -54,7 +54,7 @@ function showImagePopup() {
 <img src='avatars.png' style="width:50%;background-color:transparent;border-radius:20px;"/>
 
 ## A lot of information while in bed
-<svg width="240" height="80" xmlns="http://www.w3.org/2000/svg">
+<svg width="300" height="120" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- 붉은색 계열 그라데이션 정의 -->
     <linearGradient id="gradRed" x1="0%" y1="0%" x2="0%" y2="100%">
