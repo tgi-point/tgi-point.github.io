@@ -106,9 +106,8 @@ For more information on the privacy practices policies of Sign in with Google, p
 Personal Data
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
-Full Name from Account Data
+Name
 Email address
-Address, State, Province, ZIP/Postal code, City
 Usage Data
 Advertising Identity(ADID)
 Google Advertising ID(GAID) on Android devices
@@ -129,6 +128,9 @@ Information regarding your location
 Pictures and other information from your Device's camera and photo library
 Payment card information (Card brand name, last 4 digits, Expiration date)
 We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it be simply stored on Your device.
+
+Important Note on Location Data
+We do not store your location data on our servers. The location information is only stored locally on your Device to provide you with news and weather services within the Application. We do not retain, share, or otherwise store this information beyond your local storage.
 
 You can enable or disable access to this information at any time, through Your Device settings.
 
@@ -207,12 +209,6 @@ We also encourage you to review the Google's policy for safeguarding your data: 
 
 For more information on what type of information Firebase collects, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy
 
-Airbridge
-For more information on the privacy practices of Airbridge, please visit their Privacy & Terms web page: https://www.airbridge.io/privacy-policy
-
-Braze
-For more information on the privacy practices of Braze, please visit their Privacy & Terms web page: https://www.braze.com/company/legal/privacy
-
 Advertising
 We may use Service providers to show advertisements to You to help support and maintain Our Service.
 
@@ -223,58 +219,6 @@ You can opt-out from the AdMob by Google service by following the instructions d
 
 For more information on how Google uses the collected information, please visit the "How Google uses data when you use our partners' sites or app" page: https://policies.google.com/technologies/partner-sites or visit the Privacy Policy of Google: https://policies.google.com/privacy
 
-InMobi
-InMobi is provided by InMobi Pte Ltd.
-
-You can opt-out from InMobi service by following the instructions as described on the InMobi Opt-out page: http://www.inmobi.com/page/opt-out/
-
-For more information on the privacy practices and policies of InMobi, please visit the InMobi Privacy Policy: http://www.inmobi.com/privacy-policy/
-
-AppLovin
-AppLovin is provided by the AppLovin Corporation.
-
-If you'd like to opt-out from AppLovin service, please visit the AppLovin Opt-out page: https://www.applovin.com/optout
-
-If you'd like to learn more about AppLovin, please visit the Privacy Policy page of AppLovin: https://www.applovin.com/privacy
-
-Facebook Audience Network
-Their Privacy Policy can be viewed at https://developers.facebook.com/docs/audience-network/policy/
-
-Amazon Publisher Service
-Their Privacy Policy can be viewed at https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_sib?ie=UTF8&nodeId=468496
-
-Mintegral
-Their Privacy Policy can be viewed at https://www.mintegral.com/en/privacy/
-
-Smaato
-Their Privacy Policy can be viewed at https://www.smaato.com/privacy/
-
-IronSource
-Their Privacy Policy can be viewed at https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
-
-OpenX
-Their Privacy Policy can be viewed at https://www.openx.com/legal/privacy-policy/
-
-Conversant
-Their Privacy Policy can be viewed at https://www.conversant.com/privacy-policy/
-
-Xandr
-Their Privacy Policy can be viewed at https://www.xandr.com/privacy/
-
-Rubicon Project
-Their Privacy Policy can be viewed at https://rubiconproject.com/privacy-policy/
-
-MobFox
-Their Privacy Policy can be viewed at https://www.mobfox.com/privacy-policy/
-
-Liftoff
-Their Privacy Policy can be viewed at https://liftoff.io/privacy-policy/
-
-TripleLift
-Their Privacy Policy can be viewed at https://triplelift.com/privacy/
-
-YieldMo
-Their Privacy Policy can be viewed at https://www.yieldmo.com/privacy-policy/#Consumer
 
 Payments
 We may provide paid products and/or services within the Service. In that case, we may use third-party services for payment processing (e.g. payment processors).
@@ -286,12 +230,6 @@ Their Privacy Policy can be viewed at https://www.apple.com/legal/privacy/en-ww/
 
 Google Play In-App Payments
 Their Privacy Policy can be viewed at https://www.google.com/policies/privacy/
-
-Stripe Payment
-For the provision of certain features within our service, we may collect the following payment-related personal information. We store only a very limited amount of payment method information, while all other information is stored by our payment processor, Stripe.
-
-Card brand name, last four digits of the card number, card expiration date
-The privacy policy can be viewed at https://stripe.com/privacy.
 
 Behavioral Remarketing
 The Company uses remarketing services to advertise on third party websites to You after You visited our Service. We and Our third-party vendors use cookies to inform, optimize and serve ads based on Your past visits to our Service.
@@ -322,8 +260,6 @@ Their Privacy Policy can be viewed at https://searchads.apple.com/privacy/
 Usage, Performance and Miscellaneous
 We may use third-party Service Providers to provide better improvement of our Service.
 
-Zendesk
-Their Privacy Policy can be viewed at https://www.zendesk.com/company/privacy-and-data-protection/
 
 GDPR Privacy
 Legal Basis for Processing Personal Data under GDPR
@@ -382,6 +318,7 @@ Denying goods or services to You
 Charging different prices or rates for goods or services, including the use of discounts or other benefits or imposing penalties
 Providing a different level or quality of goods or services to You
 Suggesting that You will receive a different price or rate for goods or services or a different level or quality of goods or services.
+
 Exercising Your CCPA Data Protection Rights
 In order to exercise any of Your rights under the CCPA, and if you are a California resident, You can email or call us or visit our "Do Not Sell My Personal Information" section or web page.
 
