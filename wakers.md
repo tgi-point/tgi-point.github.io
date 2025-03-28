@@ -27,7 +27,7 @@ function showImagePopup() {
   popup.style.zIndex = '1000';
   
   const img = document.createElement('img');
-  img.src = 'qr.png';
+  img.src = 'wakers_qr.png';
   img.style.maxWidth = '90%';
   img.style.maxHeight = '90%';
   
